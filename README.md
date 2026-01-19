@@ -42,11 +42,11 @@
 
 ---
 
-### 🐍 Neural Activity (Contributions)
+### 👩‍💻 Neural Activity (Contributions)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celia_joy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://raw.githubusercontent.com/Celia_joy/Celia_joy/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ037XNJDZQOH600eyrxNoUO2MSxlkk5j2cAw&s" alt="Snake Animation" />
 </div>
 
 ---
