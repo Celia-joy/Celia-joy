@@ -1,8 +1,6 @@
 # ⚡ System Protocol: Full-Stack JavaScript Engineer
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=thinner&color=00d4ff&height=100&section=header&text=NODE_INITIALIZED&fontSize=48&animation=twinkling" />
-</div>
+
 
 ### 📡 Connection Established
 > **Status:** Architecting end-to-end digital ecosystems with high-performance JavaScript systems.
@@ -32,6 +30,20 @@
 </table>
 
 ---
+### 🧠 Core Language Focus
+
+HTML & CSS  
+████████████████████████████████████ 40%
+
+JavaScript  
+████████████████████████████████████ 40%
+
+Python  
+█████████████████ 17%
+
+PHP  
+███ 3%
+
 
 ## 📊 System Diagnostics
 
@@ -58,25 +70,11 @@ _Backend-driven system for eco-agriculture_
 
 ---
 
-### ⚽ Football Workspace Platform  
-<img src="https://skillicons.dev/icons?i=react,js" /><br/>
-**Community & collaboration space for football lovers**
-
----
-
-### 📦 Subscription Tracker API  
-<img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
-**REST API for managing recurring subscriptions**
-
-</div>
-
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celia-joy&theme=tokyonight&hide_border=true" />
-</div>
+
 
 ---
 
