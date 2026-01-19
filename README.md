@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Celia_joy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ037XNJDZQOH600eyrxNoUO2MSxlkk5j2cAw&s" alt="Snake Animation" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ037XNJDZQOH600eyrxNoUO2MSxlkk5j2cAw&s" alt="html" shape=circle />
 </div>
 
 ---
