@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Expertisation
 
 <table>
   <tr>
