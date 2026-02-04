@@ -45,19 +45,6 @@ PHP
 ███ 3%
 
 
-## 📊 System Diagnostics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Celia-joy&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celia-joy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 👩‍💻 Projects
 
