@@ -57,14 +57,6 @@ _Backend-driven system for eco-agriculture_
 
 ---
 
----
-
-## 🔥 Contribution Streak
-
-
-
----
-
 ## 🛰 Terminal Uplink
 
 📬 **Email:** `joyihirwecelia@gmail.com`  
