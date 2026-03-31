@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d4f8c,100:00d4ff&height=200&section=header&text=Celia%20Joy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Embedded%20Systems%20Engineer&descAlignY=58&descSize=18&descColor=a0cfff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;Embedded+Systems+Engineer;Building+at+SoilNara+%F0%9F%8C%B1;Consistent+%26+Determined+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+JavaScript+Developer;Embedded+Systems+Engineer;Building+at+SoilNara+%F0%9F%8C%B1;Backend+APIs+%7C+React+%7C+MongoDB;Consistent+%26+Determined+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ const celiaJoy = {
 };
 ```
 
-I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **software engineering** and **embedded systems**. Currently building at **SoilNara**, where technology meets sustainable agriculture. I thrive on shipping clean, scalable systems — from RESTful APIs to real-world hardware interfaces.
+I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **software engineering** and **embedded systems**. Currently building at **SoilNara**, where technology meets sustainable agriculture. I thrive on shipping clean, scalable systems — from production-ready RESTful APIs with automated workflows, to real-world hardware interfaces.
 
 ---
 
@@ -51,15 +51,19 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-### 🧰 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🔐 Security & DevOps
+![Arcjet](https://img.shields.io/badge/Arcjet-FF4500?style=for-the-badge&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🧰 Other Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
@@ -70,19 +74,44 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔔 <a href="https://github.com/Celia-joy/Subscription-tracker">Subscription Tracker API</a></h3>
+      <p>A production-ready API to manage and track user subscriptions with <strong>automated email renewal reminders</strong>, JWT auth, rate limiting via <strong>Arcjet</strong>, and full deployment on Render. Goes beyond CRUD — it includes a scheduled workflow engine for proactive user notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nodemailer-0078D4?style=flat&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Arcjet-FF4500?style=flat"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+      </p>
+      <p>⭐ 2 stars &nbsp;|&nbsp; 🛡️ Rate Limited &nbsp;|&nbsp; 📧 Auto Reminders &nbsp;|&nbsp; ☁️ Deployed</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/Celia-joy/library-management">Library Management System</a></h3>
+      <p>A full-featured library API where members register, browse, and borrow/return books — with strict business rules (one book at a time, max 5 copies per title). Includes a <strong>daily cron job</strong> that automatically emails overdue loan reminders and role-based access for admins and members.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/node--cron-CC3534?style=flat"/>
+        <img src="https://img.shields.io/badge/Nodemailer-0078D4?style=flat&logo=gmail&logoColor=white"/>
+      </p>
+      <p>⭐ 1 star &nbsp;|&nbsp; ⏰ Cron Jobs &nbsp;|&nbsp; 👥 Role-based Access</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏫 <a href="https://github.com/Celia-joy/MIS-Backend">School MIS — Backend API</a></h3>
-      <p>A production-ready <strong>REST API</strong> for managing an entire school ecosystem — students, teachers, classes, courses, and levels. Built with enterprise-grade patterns including JWT authentication, Joi validation, Swagger docs, and full CRUD operations.</p>
+      <p>A production-ready <strong>REST API</strong> for managing an entire school ecosystem — students, teachers, classes, courses, and levels. Enterprise-grade patterns including JWT auth, Joi validation, and full Swagger documentation with comprehensive CRUD across all entities.</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000?style=flat&logo=jsonwebtokens"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
       </p>
       <p>⭐ 4 stars &nbsp;|&nbsp; 📁 MVC Architecture &nbsp;|&nbsp; 📖 Swagger Docs</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Celia-joy/MIS-fullstack">School MIS — Full-Stack</a></h3>
-      <p>The full-stack evolution of the MIS system, integrating a <strong>frontend UI</strong> with the robust Node/Express/MongoDB backend. Features a complete web interface for school administration operations with real-time data management.</p>
+      <p>The full-stack evolution of the MIS system, integrating a <strong>frontend UI</strong> with the Node/Express/MongoDB backend. Features a complete web interface for school administration with real-time data management across schools, teachers, and students.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -95,16 +124,17 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Celia-joy/ONE-STEP-HIGH">One Step High</a></h3>
-      <p>A modern <strong>React + Vite</strong> web application deployed live on Vercel. Built with fast-refresh, ESLint configuration, and a clean component architecture — demonstrating proficiency in contemporary frontend tooling.</p>
+      <p>A modern <strong>React + Vite</strong> web application deployed live on Vercel. Built with fast-refresh and a clean component architecture — showcasing proficiency in contemporary frontend tooling and deployment pipelines.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel"/>
       </p>
       <p>⭐ 4 stars &nbsp;|&nbsp; 🚀 <a href="https://onestephigh.vercel.app">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/Celia-joy/My-Portfolio">My Portfolio</a></h3>
+      <h3>💼 <a href="https://github.com/Celia-joy/My-Portfolio">My Portfolio</a></h3>
       <p>A personal developer portfolio showcasing projects, skills, and professional background. Built with clean HTML, CSS, and JavaScript to create a compelling first impression for recruiters and collaborators.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -135,9 +165,9 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
 ## 🌍 What I'm Working On
 
 - 🌱 Currently building at **SoilNara** — bridging tech and eco-agriculture in Rwanda
-- 🔭 Deepening expertise in **full-stack JavaScript** architecture
+- 🔭 Deepening expertise in **full-stack JavaScript** architecture and automated backend workflows
 - 🛰️ Exploring **embedded systems** and IoT integrations
-- 📚 Sharpening skills in **system design** and scalable API patterns
+- 📚 Sharpening skills in **system design**, cron scheduling, and scalable API patterns
 - 🎯 2025 goal: *Ship projects that matter and grow every day*
 
 ---
