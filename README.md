@@ -74,6 +74,18 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/Celia-joy/Expense-tracker">Expense Tracker API</a></h3>
+      <p>A production-ready REST API for tracking daily expenses with categories, spending summaries, and <strong>automated budget alert emails</strong>. Features JWT auth, daily/weekly/monthly summaries with category breakdowns, a monthly cron job that fires budget warnings at 80% and exceeded alerts, plus a welcome email on registration. Deployed live on Render.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nodemailer-0078D4?style=flat&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/node--cron-CC3534?style=flat"/>
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+      </p>
+      <p>⏰ Cron Jobs &nbsp;|&nbsp; 📧 Budget Alerts &nbsp;|&nbsp; 📊 Summaries &nbsp;|&nbsp; ☁️ <a href="https://expense-tracker-ptjs.onrender.com">Live API</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔔 <a href="https://github.com/Celia-joy/Subscription-tracker">Subscription Tracker API</a></h3>
       <p>A production-ready API to manage and track user subscriptions with <strong>automated email renewal reminders</strong>, JWT auth, rate limiting via <strong>Arcjet</strong>, and full deployment on Render. Goes beyond CRUD — it includes a scheduled workflow engine for proactive user notifications.</p>
       <p>
@@ -85,6 +97,8 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
       </p>
       <p>⭐ 2 stars &nbsp;|&nbsp; 🛡️ Rate Limited &nbsp;|&nbsp; 📧 Auto Reminders &nbsp;|&nbsp; ☁️ Deployed</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/Celia-joy/library-management">Library Management System</a></h3>
       <p>A full-featured library API where members register, browse, and borrow/return books — with strict business rules (one book at a time, max 5 copies per title). Includes a <strong>daily cron job</strong> that automatically emails overdue loan reminders and role-based access for admins and members.</p>
@@ -96,8 +110,6 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
       </p>
       <p>⭐ 1 star &nbsp;|&nbsp; ⏰ Cron Jobs &nbsp;|&nbsp; 👥 Role-based Access</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏫 <a href="https://github.com/Celia-joy/MIS-Backend">School MIS — Backend API</a></h3>
       <p>A production-ready <strong>REST API</strong> for managing an entire school ecosystem — students, teachers, classes, courses, and levels. Enterprise-grade patterns including JWT auth, Joi validation, and full Swagger documentation with comprehensive CRUD across all entities.</p>
@@ -109,6 +121,8 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
       </p>
       <p>⭐ 4 stars &nbsp;|&nbsp; 📁 MVC Architecture &nbsp;|&nbsp; 📖 Swagger Docs</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/Celia-joy/MIS-fullstack">School MIS — Full-Stack</a></h3>
       <p>The full-stack evolution of the MIS system, integrating a <strong>frontend UI</strong> with the Node/Express/MongoDB backend. Features a complete web interface for school administration with real-time data management across schools, teachers, and students.</p>
@@ -120,8 +134,6 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
       </p>
       <p>⭐ 3 stars &nbsp;|&nbsp; 🍴 1 fork &nbsp;|&nbsp; 🌐 Full-Stack</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Celia-joy/ONE-STEP-HIGH">One Step High</a></h3>
       <p>A modern <strong>React + Vite</strong> web application deployed live on Vercel. Built with fast-refresh and a clean component architecture — showcasing proficiency in contemporary frontend tooling and deployment pipelines.</p>
@@ -133,6 +145,8 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
       </p>
       <p>⭐ 4 stars &nbsp;|&nbsp; 🚀 <a href="https://onestephigh.vercel.app">Live Demo</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/Celia-joy/My-Portfolio">My Portfolio</a></h3>
       <p>A personal developer portfolio showcasing projects, skills, and professional background. Built with clean HTML, CSS, and JavaScript to create a compelling first impression for recruiters and collaborators.</p>
@@ -142,6 +156,9 @@ I'm a passionate developer based in Kigali, Rwanda, blending the worlds of **sof
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </p>
       <p>⭐ 3 stars &nbsp;|&nbsp; 💼 Personal Brand</p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- placeholder for future project -->
     </td>
   </tr>
 </table>
